@@ -6,6 +6,8 @@
 
 - https://github.com/ITE-2024-PWR/sem1-pp-lab-mw
 
+## Technologie informacyjne
+
 ### Prowadzący [dr Marek Bazan](https://wit.pwr.edu.pl/wydzial/struktura-organizacyjna/pracownicy/marek-bazan)
 
 - https://github.com/ITE-2024-PWR/sem1-ti-lab-am
